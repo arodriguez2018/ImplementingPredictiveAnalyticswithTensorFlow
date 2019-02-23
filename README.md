@@ -1,0 +1,2 @@
+# ImplementingPredictiveAnalyticswithTensorFlow
+PLURALSIGHT DESKTOP ALL PROJECTS PIPENV
